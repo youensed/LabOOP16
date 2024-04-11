@@ -1,0 +1,17 @@
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\bin\Debug\net6.0-windows\LabOOP16.exe
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\bin\Debug\net6.0-windows\LabOOP16.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\bin\Debug\net6.0-windows\LabOOP16.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\bin\Debug\net6.0-windows\LabOOP16.dll
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\bin\Debug\net6.0-windows\LabOOP16.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.Form1.resources
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.csproj.GenerateResource.cache
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.dll
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\refint\LabOOP16.dll
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\LabOOP16.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\programmin'\c++\LabOOP16\LabOOP16\obj\Debug\net6.0-windows\ref\LabOOP16.dll
